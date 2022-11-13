@@ -1,8 +1,28 @@
-.error{
-    padding : 10px;
-    border : 1px solid rgba(252, 2, 2, 0.562);
-    background-color: rgb(233, 184, 184);
-    color:rgba(252, 2, 2, 0.562);
-    border-radius: 10px;
-    font-size: 1.2rem;
+.error {
+  padding: 10px;
+  border: 1px solid rgba(252, 2, 2, 0.562);
+  background-color: rgb(233, 184, 184);
+  color: rgba(252, 2, 2, 0.562);
+  border-radius: 10px;
+  font-size: 1.2rem;
+}
+
+.button {
+  text-decoration: none;
+  background-color: teal;
+  color: white;
+  border-radius: 4px;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid teal;
+  cursor: pointer;
+}
+
+.navlink{
+    color: white;
+    text-decoration: none;
+    size : 1.2rem;
+}
+
+.navlink:visited{
+    color: white;
 }
